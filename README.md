@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Felipe 👋
 
-![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)(linktr.ee/Fbferreira)
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](linktr.ee/Fbferreira)
 
 ![Fbgg2k GitHub stats](https://github-readme-stats.vercel.app/api?username=Fbgg2k&show_icons=true&theme=dark)
 
