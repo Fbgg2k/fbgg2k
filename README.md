@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Felipe 👋
 
-[![LinkerBio](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](linkr.bio/fbferreira)
+[![LinkerBio](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https=//www.linkr.bio/fbferreira)
 
 ![Fbgg2k GitHub stats](https://github-readme-stats.vercel.app/api?username=Fbgg2k&show_icons=true&theme=dark)
 
